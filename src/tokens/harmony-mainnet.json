@@ -216,3 +216,12 @@
     "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
   }
 ]
+  {
+    "chainId": 1666600000,
+    "address": "0x732D03E39b0C9e4CBa86C5584283C8A92B453367",
+    "symbol": "S",
+    "name": "Social",
+    "decimals": 18,
+    "logoURI": "https://drive.google.com/file/d/1mrWtC3s2kmIV8-qun3T2Fz0xDPsqUnpL/view?usp=sharing"
+  }
+]
